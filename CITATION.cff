@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Selección de variables con Algoritmo Genético + Regresión Logística (Deserción Temprana)"
+authors:
+  - family-names: "Flores Lira"
+    given-names: "Favián"
+date-released: "2025-11-24"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/affl/ga-feature-selection-dropout"
+keywords:
+  - algoritmo genético
+  - selección de variables
+  - deserción estudiantil
+  - regresión logística
+  - educación superior
