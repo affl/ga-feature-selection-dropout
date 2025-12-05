@@ -3,7 +3,7 @@
 Este repositorio contiene un script en Python para **selección automática de variables** usando un **Algoritmo Genético (SGA)** y evaluación con **Regresión Logística** (Scikit‑Learn).  
 Está adaptado a un proyecto de investigación sobre **Modelo predictivo para identificar estudiantes en riesgo de deserción temprana en educación superior**.
 
-> Autor del repositorio y adaptación: *Favián Flores Lira*  
+> Autor del repositorio y adaptación: *Anastacio Favián Flores Lira*  
 > Contexto: Doctorado en Tecnologías de la Información, UDG/CUCEA.
 
 ---
