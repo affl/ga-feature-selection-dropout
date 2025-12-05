@@ -8,7 +8,7 @@ Está adaptado a un proyecto de investigación sobre **Modelo predictivo para id
 
 ---
 
-## Qué hace el script?
+## ¿Qué hace el script?
 
 1. Carga un archivo CSV con datos reales de estudiantes.
 2. Define un conjunto de variables candidatas.
@@ -108,7 +108,7 @@ Al terminar, se guardan:
 
 ---
 
-## ómo citar este repositorio
+## Cómo citar este repositorio
 
 Si publicas artículos o tesis, puedes citarlo así:
 
